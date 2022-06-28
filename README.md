@@ -2,6 +2,8 @@
 
 **meu nome é marcelo**
 
+estudo no ensina medio 
+
 sou desenvolvedor de jogos no:
 
 ![Isso é uma imagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
